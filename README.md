@@ -1,2 +1,5 @@
 # Insurance-cost-prediction
 Regression analysis is used to identify the important factors that are affected to predict the insurance cost.
+
+
+Health care is one of the most vital thing that person needs to have productive, secure and healthy living style. In US, residents get health coverage from private and public sectors, few of them have through their employers or direct purchase from private source or enrolled with medicate, medicaid or veterans’ affairs programs. The insurance company calculates premiums based on the two major factors firstly, the cost of the premium, insurer predict under their policies and second, the cost of operating plans. There are several factors affect for the cost of medical expense such as policy holder’s health status, employment status, wages, region, habits etc. In terms of machine learning, regression method is often used to predict the health care costs and calculate premiums. Regression analysis is used to identify the important factors that are affected to predict the insurance cost. Using proper classification techniques, it offers fair price to customer and maximize the company’s profit.
